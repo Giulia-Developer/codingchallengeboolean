@@ -54,19 +54,16 @@ header > h1 {
   width: 40%;
   background-color: orange;
   border-radius: 5%;
-  background-color: orange;
 }
 
 .verde {
   width: 70%;
   background-color: lightgreen;
   border-radius: 5%;
-  background-color: lightgreen;
 }
 
 .rosso {
   width: 20%;
   background-color: red;
   border-radius: 5%;
-  background-color: red;
 }
